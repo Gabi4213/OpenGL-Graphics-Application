@@ -41,7 +41,7 @@ The application also implements text rendering, enabling on-screen UI and debugg
 - **Graphics Sandbox Environment**  
   Flexible and extensible environment for experimenting with real-time rendering and interaction systems.
 
-  - **Scene System**  
+- **Scene System**  
   Flexible and extensible scene system.
 
 
