@@ -1,0 +1,86 @@
+﻿  bmpLoader.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\bmpLoader.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+  CollisionsScene.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(66,35): warning C4305: '-=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(71,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(76,35): warning C4305: '+=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(81,35): warning C4305: '-=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(112,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(160,63): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(183,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\CollisionsScene.cpp(183,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Cube.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(50,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(51,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(52,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(55,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(56,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Cube.cpp(57,25): warning C4305: '=': truncation from 'double' to 'float'
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\HelloGL.cpp(56,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\HelloGL.cpp(57,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\HelloGL.cpp(58,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\HelloGL.cpp(124,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\HelloGL.cpp(124,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  LinkedLists.cpp
+  main.cpp
+  MenuScene.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(94,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(94,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(95,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(95,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(96,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(96,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(97,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(97,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(98,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(98,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(99,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(99,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(100,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(100,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(115,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(118,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(121,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(124,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(133,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(133,53): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(133,82): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(135,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(135,53): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(135,82): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(148,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\MenuScene.cpp(148,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  MeshLoader.cpp
+  objLoader.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\objLoader.cpp(53,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Scene.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(49,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(50,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(51,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(54,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(55,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\Scene.cpp(56,27): warning C4305: '=': truncation from 'double' to 'float'
+  SceneManager.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\SceneManager.cpp(72,2): warning C4102: 'deafult': unreferenced label
+  SceneObject.cpp
+  StarsScene.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(86,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(87,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(94,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(95,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(189,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StarsScene.cpp(189,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  StaticCube.cpp
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(44,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(44,53): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(44,82): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(46,25): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(46,53): warning C4305: '=': truncation from 'double' to 'float'
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\StaticCube.cpp(46,82): warning C4305: '=': truncation from 'double' to 'float'
+  StaticObjects.cpp
+  Texture2D.cpp
+  Generating Code...
+G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\HelloGL\objLoader.cpp(40,1): warning C4172: returning address of local variable or temporary : norm
+  HelloGL.vcxproj -> G:\Unity\UnityProjects\Git\OpenGL-Graphics-Application\Debug\HelloGL.exe

@@ -1,0 +1,121 @@
+﻿  bmpLoader.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\bmpLoader.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+  CollisionsScene.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(66,35): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(71,35): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(76,35): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(81,35): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(112,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(160,63): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(183,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\CollisionsScene.cpp(183,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Cube.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(50,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(51,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(52,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(55,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(56,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Cube.cpp(57,25): warning C4305: '=': truncation from 'double' to 'float'
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\HelloGL.cpp(56,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\HelloGL.cpp(57,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\HelloGL.cpp(58,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\HelloGL.cpp(124,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\HelloGL.cpp(124,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  LinkedLists.cpp
+  main.cpp
+  MenuScene.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(94,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(94,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(95,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(95,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(96,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(96,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(97,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(97,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(98,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(98,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(99,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(99,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(100,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(100,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(115,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(118,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(121,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(124,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(133,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(133,53): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(133,82): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(135,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(135,53): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(135,82): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(148,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\MenuScene.cpp(148,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  MeshLoader.cpp
+  objLoader.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\objLoader.cpp(53,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Scene.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(49,26): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(50,26): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(51,26): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(54,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(55,27): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\Scene.cpp(56,27): warning C4305: '=': truncation from 'double' to 'float'
+  SceneManager.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\SceneManager.cpp(72,2): warning C4102: 'deafult': unreferenced label
+  SceneObject.cpp
+  StarsScene.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(86,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(87,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(94,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(95,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(189,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StarsScene.cpp(189,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  StaticCube.cpp
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(44,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(44,53): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(44,82): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(46,25): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(46,53): warning C4305: '=': truncation from 'double' to 'float'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\StaticCube.cpp(46,82): warning C4305: '=': truncation from 'double' to 'float'
+  StaticObjects.cpp
+  Texture2D.cpp
+  Generating Code...
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\HelloGL\objLoader.cpp(40,1): warning C4172: returning address of local variable or temporary : norm
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "public: __cdecl CollisionsScene::CollisionsScene(void)" (??0CollisionsScene@@QEAA@XZ)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+MenuScene.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "public: virtual void __cdecl CollisionsScene::Update(void)" (?Update@CollisionsScene@@UEAAXXZ)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+MenuScene.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "public: virtual void __cdecl CollisionsScene::Display(void)" (?Display@CollisionsScene@@UEAAXXZ)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+MenuScene.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "public: virtual void __cdecl CollisionsScene::InitGL(void)" (?InitGL@CollisionsScene@@UEAAXXZ)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+MenuScene.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "public: virtual void __cdecl CollisionsScene::Update(void)" (?Update@CollisionsScene@@UEAAXXZ)
+GLUTCallbacks.obj : error LNK2001: unresolved external symbol __imp_glutGet
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutGet
+CollisionsScene.obj : error LNK2019: unresolved external symbol __imp_glutBitmapString referenced in function "public: void __cdecl CollisionsScene::DrawString(char const *,void *,struct Vector3 *,struct Color *,int,int)" (?DrawString@CollisionsScene@@QEAAXPEBDPEAXPEAUVector3@@PEAUColor@@HH@Z)
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutBitmapString
+MenuScene.obj : error LNK2001: unresolved external symbol __imp_glutBitmapString
+StarsScene.obj : error LNK2001: unresolved external symbol __imp_glutBitmapString
+GLUTCallbacks.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl GLUTCallbacks::Timer(int)" (?Timer@GLUTCallbacks@@YAXH@Z)
+SceneManager.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function "void __cdecl InitWindow(int,char * * const)" (?InitWindow@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function "void __cdecl InitWindow(int,char * * const)" (?InitWindow@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "void __cdecl InitWindow(int,char * * const)" (?InitWindow@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+Scene.obj : error LNK2019: unresolved external symbol __imp_glutDetachMenu referenced in function "public: virtual void __cdecl Scene::InitGL(void)" (?InitGL@Scene@@UEAAXXZ)
+SceneManager.obj : error LNK2019: unresolved external symbol __imp_glutDestroyWindow referenced in function "public: void __cdecl SceneManager::Keyboard(unsigned char,int,int)" (?Keyboard@SceneManager@@QEAAXEHH@Z)
+SceneManager.obj : error LNK2019: unresolved external symbol __imp_glutGetWindow referenced in function "public: void __cdecl SceneManager::Keyboard(unsigned char,int,int)" (?Keyboard@SceneManager@@QEAAXEHH@Z)
+SceneManager.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function "public: void __cdecl SceneManager::InitGL(void)" (?InitGL@SceneManager@@QEAAXXZ)
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+J:\Gabi Pliki\UniStuff\Year1\FOGGS\Semester 2\FOGGS - Assigment 2 - Gabi Maczynska\FOGGS - Assigment 2 - Gabi Maczynska\HelloGL\x64\Debug\HelloGL.exe : fatal error LNK1120: 16 unresolved externals

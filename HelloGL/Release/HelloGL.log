@@ -1,0 +1,89 @@
+﻿  bmpLoader.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\bmpLoader.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+  CollisionsScene.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(66,46): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(71,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(76,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(81,46): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(112,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(160,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(183,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\CollisionsScene.cpp(183,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Cube.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(50,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(51,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(52,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(55,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(56,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Cube.cpp(57,29): warning C4305: '=': truncation from 'double' to 'float'
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\HelloGL.cpp(56,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\HelloGL.cpp(57,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\HelloGL.cpp(58,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\HelloGL.cpp(124,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\HelloGL.cpp(124,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  LinkedLists.cpp
+  main.cpp
+  MenuScene.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(94,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(94,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(95,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(95,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(96,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(96,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(97,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(97,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(98,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(98,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(99,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(99,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(100,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(100,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(115,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(118,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(121,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(124,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(133,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(133,57): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(133,86): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(135,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(135,57): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(135,86): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(148,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\MenuScene.cpp(148,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  MeshLoader.cpp
+  objLoader.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\objLoader.cpp(53,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Scene.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(49,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(50,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(51,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(54,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(55,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\Scene.cpp(56,30): warning C4305: '=': truncation from 'double' to 'float'
+  SceneManager.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\SceneManager.cpp(72,9): warning C4102: 'deafult': unreferenced label
+  SceneObject.cpp
+  StarsScene.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(86,75): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(87,75): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(94,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(95,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(189,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StarsScene.cpp(189,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  StaticCube.cpp
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(44,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(44,57): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(44,86): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(46,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(46,57): warning C4305: '=': truncation from 'double' to 'float'
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\StaticCube.cpp(46,86): warning C4305: '=': truncation from 'double' to 'float'
+  StaticObjects.cpp
+  Texture2D.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\HelloGL\objLoader.cpp(40): warning C4172: returning address of local variable or temporary: norm
+  All 270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HelloGL.vcxproj -> D:\Source\Repos\University-Gabi\Gabi-Maczynska\Semester 2\FOGGS\HelloGL\Release\HelloGL.exe
